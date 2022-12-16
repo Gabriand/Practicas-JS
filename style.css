@@ -11,7 +11,7 @@ h2 {
 /*--------Leds indicadores------*/
 .contenedor {
     width: 350px;
-    height: 110px;
+    height: 120px;
     border-color: black;
     border-style: solid;
     border-bottom-style: none;
@@ -20,6 +20,7 @@ h2 {
     background-color: #fe0065;
     display: flex;
     flex-direction: row;
+    gap: 5px;
     padding: 15px 0px 0px 10px;
 }
 
@@ -40,7 +41,7 @@ h2 {
     border-color: #010001;
     border-style: solid;
     background-color: #3298cb;
-    margin: 6px;
+    margin: 5px;
 }
 
 .azul3 {
@@ -64,10 +65,8 @@ h2 {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    border-color: #010001;
-    border-style: solid;
-    margin: 4px;
-    background-color: gray;
+    margin: 5px;
+    background-color: #fe98cb;
 }
 
 .amarillo {
@@ -77,17 +76,14 @@ h2 {
     border-color: #010001;
     border-style: solid;
     background-color: #fdcb65;
-    margin: 0px 5px 0px 5px;
 }
 
 .amarillo2 {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    border-color: #010001;
-    border-style: solid;
-    margin: 4px;
-    background-color: gray;
+    margin: 5px;
+    background-color: #fffdc7;
 }
 
 .verde {
@@ -103,10 +99,8 @@ h2 {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    border-color: #010001;
-    border-style: solid;
-    margin: 4px;
-    background-color: gray;    
+    margin: 5px;
+    background-color: #93fc05;    
 }
 
 /*---------pantalla de la pokedex---------*/
@@ -142,11 +136,15 @@ h2 {
     background-color: darkseagreen;
 }
 
-.led_pantalla1 {
-
+#pokeball {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    filter: brightness(2);
+    filter: contrast(1.5);
 }
 
-.led_pantalla2 {
+.led_pantalla1 {
     width: 20px;
     height: 20px;
     border-radius: 50%;
@@ -155,6 +153,23 @@ h2 {
     border-width: 3px;
     background-color: red;
     margin: 3px 0px 0px 30px;
+}
+
+.led_pantalla2 {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    margin: 4px;
+    background-color: #fe98cb;
+}
+
+
+/*
+.rayas_pantalla span{
+    width: 100%;
+    height: 2px;
+    background-color: #010001;
+    margin-top: 6px;
 }
 
 /*
