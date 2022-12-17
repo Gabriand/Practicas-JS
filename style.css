@@ -8,6 +8,15 @@ h2 {
     font-weight: 700;
 }
 
+.pokedex {
+    width: 500px;
+    height: 600px;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    display: flex;
+    flex-direction: column;
+}
 /*--------Leds indicadores------*/
 .contenedor {
     width: 350px;
@@ -106,11 +115,11 @@ h2 {
 /*---------pantalla de la pokedex---------*/
 .contenedor2 {
     width: 360px;
-    height: 300px;
+    height: 230px;
     border-color: black;
     border-style: solid;
     border-top-style: none;
-    border-bottom-left-radius: 20px;
+    border-bottom-style: none;
     background-color: #fe0065;
 }
 
@@ -161,6 +170,69 @@ h2 {
     border-radius: 50%;
     margin: 4px;
     background-color: #fe98cb;
+}
+
+/*---------botones de la pokedex---------*/
+.contenedor3 {
+    width: 360px;
+    height: 150px;
+    border-color: #000000;
+    border-style: solid;
+    border-width: 3px;
+    border-top-style: none;
+    border-bottom-left-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.btn1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border-color: #000000;
+    border-style: solid;
+    background-color: #585858;
+    margin: 20px 0px 0px 20px;
+}
+
+.btn_l1 {
+    width: 65px;
+    height: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: #fe0065;
+    margin: 10px 0px 0px 20px;
+}
+
+.btn_l2 {
+    width: 65px;
+    height: 5px;
+    border-color: black;
+    border-style: solid;    
+    border-radius: 5px;
+    background-color: #04d8d8;
+    margin: 10px 0px 0px 10px;
+}
+
+.cruz1 {
+    width: 20px;
+    height: 70px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #585858;
+    margin-top: 20px;
+    transform: translateX(35px);
+}
+
+.cruz2 {
+
+}
+
+.circle_c {
+
 }
 
 
