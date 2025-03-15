@@ -1,0 +1,15 @@
+/workspaces/Practicas-JS/probando/bin/Debug/net8.0/probando
+/workspaces/Practicas-JS/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/Practicas-JS/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/Practicas-JS/probando/bin/Debug/net8.0/probando.dll
+/workspaces/Practicas-JS/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/probando.dll
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/Practicas-JS/probando/obj/Debug/net8.0/ref/probando.dll
