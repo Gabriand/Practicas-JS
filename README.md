@@ -9,5 +9,3 @@ Un commit desde GitHub
 Una mensaje mas
 
 Cambios desde mi rama local llamada developer01
-
-Nuevo cambio
