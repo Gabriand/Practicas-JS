@@ -1,4 +1,6 @@
 # Practicas-JS
 Pókedex hecha con CSS y JavaScript, API
 
-Primera contribucion local para github. 
+Primera contribucion local para GitHub 
+
+Un commit desde GitHub
